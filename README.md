@@ -1,2 +1,2 @@
 # Redstone_Structures
- some of my redstoen machine design
+ some of my redstone machine design
